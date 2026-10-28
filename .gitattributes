@@ -1,0 +1,3 @@
+# Preserve the audited source snapshot byte for byte, including line endings.
+research/*.py -text
+tests/*.py -text

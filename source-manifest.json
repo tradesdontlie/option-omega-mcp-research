@@ -1,0 +1,142 @@
+﻿{
+    "files":  [
+                  {
+                      "path":  "research/asset_audit.py",
+                      "bytes":  10993,
+                      "sha256":  "abcef188b75eadaa912ae69a9f382e57d143f297042aba7b194587a8ecb486d6"
+                  },
+                  {
+                      "path":  "research/asset_report.py",
+                      "bytes":  20966,
+                      "sha256":  "4d11d6be78447a5e3f0993efb40040574478979d7d73f636c99d4565df7a4ad7"
+                  },
+                  {
+                      "path":  "research/asset_search.py",
+                      "bytes":  10676,
+                      "sha256":  "473ec319195b3c86aa58b486276fe4f60f7df0250b9b1b4e45d3826b4b8e6ed8"
+                  },
+                  {
+                      "path":  "research/batch.py",
+                      "bytes":  8944,
+                      "sha256":  "e7d40c2eb5dea9a4b1b7ca9d03e1bf550ce73f4b4053bf05ad6d60a51998e914"
+                  },
+                  {
+                      "path":  "research/curves.py",
+                      "bytes":  3138,
+                      "sha256":  "2151cf1e84fdfc37b65597b1db86bd2cdb6bd9f859cd5979b1137c1a2f740155"
+                  },
+                  {
+                      "path":  "research/evidence.py",
+                      "bytes":  11938,
+                      "sha256":  "8d505ee847eb384b3116e83bd055243d5f85313919886c69ae0fdf1e8c904169"
+                  },
+                  {
+                      "path":  "research/experiments.py",
+                      "bytes":  6440,
+                      "sha256":  "a1d12e8cf7246f1c26c1c81098c975d4ae0a0a5c787e665f4b0248e122fd7b10"
+                  },
+                  {
+                      "path":  "research/holdout.py",
+                      "bytes":  7684,
+                      "sha256":  "f824ca1b5a7c66a86fc03b236bbbaa3d5c5f755c4cf3fccb4f5422ce35ede3c6"
+                  },
+                  {
+                      "path":  "research/indicator_report.py",
+                      "bytes":  12147,
+                      "sha256":  "42f48f9df99f8a28a58225e27b157219bb5b2b3feaae219542587fafcbd1871c"
+                  },
+                  {
+                      "path":  "research/indicator_search.py",
+                      "bytes":  8240,
+                      "sha256":  "116c624596fb2cf4368fa4c2687484f19a4cd2bfcd97773f4ad2ff65b97af0bc"
+                  },
+                  {
+                      "path":  "research/mass_sweep.py",
+                      "bytes":  17544,
+                      "sha256":  "47d6e51297d3bce52297ace4a32e0ecb7e316c961c4ff2aaf204ad8e8246ba03"
+                  },
+                  {
+                      "path":  "research/mcp_client.py",
+                      "bytes":  5773,
+                      "sha256":  "48eac344eb8580f9230e5069f08ebf46658a26701c3975dc2b34ff9a1271cc5e"
+                  },
+                  {
+                      "path":  "research/positive_appendix.py",
+                      "bytes":  18117,
+                      "sha256":  "7487af56e139c1604b752b5bc9b4b26c6093be36caa27cb59311b2f12813fca8"
+                  },
+                  {
+                      "path":  "research/report.py",
+                      "bytes":  24853,
+                      "sha256":  "6722fbe7becc57888fa78cbd4a560afa4ba706b4b120fd169bd3671f92304b5e"
+                  },
+                  {
+                      "path":  "research/signals.py",
+                      "bytes":  4693,
+                      "sha256":  "d52bc129de5ef189643a734a68f38df8a65b1da5a1c46182748c5a0db2d4fb76"
+                  },
+                  {
+                      "path":  "research/volatility_report.py",
+                      "bytes":  15521,
+                      "sha256":  "51644e2760094775606c8d31628099382172a5c206eee2a66f5d5937a83a7e46"
+                  },
+                  {
+                      "path":  "research/volatility_search.py",
+                      "bytes":  5597,
+                      "sha256":  "1fdb6adffebe8afda514e468ae8f42cf83652ab2676b3f7668588b221ead5cac"
+                  },
+                  {
+                      "path":  "research/workflows.py",
+                      "bytes":  10993,
+                      "sha256":  "3b3f8e70bbcf5b31c94e359ad72adaf5a205c430742f327693b7da3e34695d09"
+                  },
+                  {
+                      "path":  "research/__init__.py",
+                      "bytes":  48,
+                      "sha256":  "5d4f8acdf9739f501f934084f3e83afdecb41450dcd90b388d3aeec5fa115530"
+                  },
+                  {
+                      "path":  "tests/test_asset_audit.py",
+                      "bytes":  4432,
+                      "sha256":  "396346ece013eb60f7712eb671a39dae0c0c9f35595b9c31f5f272d719e064a8"
+                  },
+                  {
+                      "path":  "tests/test_asset_report.py",
+                      "bytes":  3118,
+                      "sha256":  "b72c6a21f3523ece37c9f003c8a489b507b896f25f80acd5a5ad8ca35c6333cd"
+                  },
+                  {
+                      "path":  "tests/test_asset_search.py",
+                      "bytes":  1693,
+                      "sha256":  "7ff2bf7a431cc7f6a05040340d7831054bb0f058329edaf05eea38689cd06aad"
+                  },
+                  {
+                      "path":  "tests/test_indicator_search.py",
+                      "bytes":  2053,
+                      "sha256":  "0e35778043316f21d5e621bcfd5493acf2d65034066c77c8e840c7d747a0c379"
+                  },
+                  {
+                      "path":  "tests/test_mass_sweep.py",
+                      "bytes":  3711,
+                      "sha256":  "17c392756a031d5ac71680f37a9fa248139cd1fd6f4a2ee8a5de98774a98ec14"
+                  },
+                  {
+                      "path":  "tests/test_positive_appendix.py",
+                      "bytes":  7380,
+                      "sha256":  "41d778b2cf57c0cbfa373164eec46d10cbc94619f6b1db4924e7a87a5b265348"
+                  },
+                  {
+                      "path":  "tests/test_research.py",
+                      "bytes":  4997,
+                      "sha256":  "1971ad09b569d3c746b408e9efb4a5bbcc5c2e07eb463a22f2c96d4e780fd398"
+                  },
+                  {
+                      "path":  "tests/test_volatility_search.py",
+                      "bytes":  5089,
+                      "sha256":  "d9ea229649a1b9f97dd50e260c25c67a7d0ace0ac5e5bbd7fc022cfbb631d858"
+                  }
+              ],
+    "purpose":  "Allowlisted public source export; no private data or original Git history",
+    "source_note":  "Research files were uncommitted; per-file hashes identify the exported source snapshot",
+    "source_revision":  "f29df35a4b0fff11367a19157768727267facf05"
+}
