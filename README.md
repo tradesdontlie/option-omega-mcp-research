@@ -26,6 +26,18 @@ The scripts preserve the original study logic and fixed historical windows, incl
 
 ## Setup
 
+### Get Option Omega and connect the MCP
+
+**[Sign up for Option Omega through Tradesdontlie's link](https://app.optionomega.com/register/tradesdontlie).** Use your own account with MCP access, then connect it using the server URL below:
+
+```text
+https://mcp.optionomega.com/mcp
+```
+
+For Claude, add that URL as a custom connector and complete Option Omega's browser sign-in. For the Python scripts in this repository, configure Codex using the commands below. Check the [official MCP product page](https://optionomega.com/mcp) for current access requirements.
+
+### Configure the scripts
+
 From the repository root in PowerShell:
 
 ```powershell
